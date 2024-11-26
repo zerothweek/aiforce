@@ -1,0 +1,414 @@
+{
+    "a1_e0_at0_et0_b0_o0": {
+        "ratio": 0.9,
+        "description": "아군병사 혼자, WhiteBackground"
+    },
+    "a0_e1_at0_et0_b0_o0": {
+        "ratio": 0.9,
+        "description": "적군병사 혼자, WhiteBackground"
+    },
+    "a0_e0_at0_et1_b0_o0": {
+        "ratio": 0.9,
+        "description": "적군탱크 혼자, WhiteBackground"
+    },
+
+
+    "a1_e0_at0_et0_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사 혼자"
+    },
+    "a0_e1_at0_et0_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군병사 혼자"
+    },
+
+
+    "a0_e0_at0_et1_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군탱크 혼자"
+    },
+
+
+
+    "a1_e0_at1_et0_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사1-아군탱크1, 겹침 없음"
+    },
+    "a1_e0_at0_et1_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사1-적군탱크1, 겹침 없음"
+    },
+    "a0_e1_at1_et0_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군병사1-아군탱크1, 겹침 없음"
+    },
+    "a0_e1_at0_et1_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군병사1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a0_e0_at1_et1_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군탱크1-적군탱크1, 겹침 없음"
+    },
+    "a0_e0_at0_et2_b1_o0": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군탱크1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a1_e1_at0_et0_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사1-적군병사1, 겹침 있음"
+    },
+    "a2_e0_at0_et0_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사1-아군병사1, 겹침 있음"
+    },
+    "a0_e2_at0_et0_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군병사1-적군병사1, 겹침 있음"
+    },
+
+
+    "a1_e0_at1_et0_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사1-아군탱크1, 겹침 있음"
+    },
+    "a1_e0_at0_et1_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사1-적군탱크1, 겹침 있음"
+    },
+    "a0_e1_at1_et0_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군병사1-아군탱크1, 겹침 있음"
+    },
+    "a0_e1_at0_et1_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 적군병사1-적군탱크1, 겹침 있음"
+    },
+
+
+    "a2_e2_at1_et0_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사2-적군병사2-아군탱크1, 겹침 있음"
+    },
+    "a2_e2_at0_et1_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사2-적군병사2-적군탱크1, 겹침 있음"
+    },
+    "a2_e2_at1_et1_b1_o1": {
+        "ratio": 0.9,
+        "description": "Section 1, 아군병사2-적군병사2-아군탱크1-적군탱크1, 겹침 있음"
+    },
+
+
+
+
+
+    "a1_e0_at0_et0_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사 혼자"
+    },
+    "a0_e1_at0_et0_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군병사 혼자"
+    },
+
+
+    "a0_e0_at0_et1_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군탱크 혼자"
+    },
+
+
+
+    "a1_e0_at1_et0_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사1-아군탱크1, 겹침 없음"
+    },
+    "a1_e0_at0_et1_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사1-적군탱크1, 겹침 없음"
+    },
+    "a0_e1_at1_et0_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군병사1-아군탱크1, 겹침 없음"
+    },
+    "a0_e1_at0_et1_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군병사1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a0_e0_at1_et1_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군탱크1-적군탱크1, 겹침 없음"
+    },
+    "a0_e0_at0_et2_b2_o0": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군탱크1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a1_e1_at0_et0_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사1-적군병사1, 겹침 있음"
+    },
+    "a2_e0_at0_et0_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사1-아군병사1, 겹침 있음"
+    },
+    "a0_e2_at0_et0_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군병사1-적군병사1, 겹침 있음"
+    },
+
+
+    "a1_e0_at1_et0_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사1-아군탱크1, 겹침 있음"
+    },
+    "a1_e0_at0_et1_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사1-적군탱크1, 겹침 있음"
+    },
+    "a0_e1_at1_et0_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군병사1-아군탱크1, 겹침 있음"
+    },
+    "a0_e1_at0_et1_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 적군병사1-적군탱크1, 겹침 있음"
+    },
+
+
+    "a2_e2_at1_et0_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사2-적군병사2-아군탱크1, 겹침 있음"
+    },
+    "a2_e2_at0_et1_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사2-적군병사2-적군탱크1, 겹침 있음"
+    },
+    "a2_e2_at1_et1_b2_o1": {
+        "ratio": 0.9,
+        "description": "Section 2, 아군병사2-적군병사2-아군탱크1-적군탱크1, 겹침 있음"
+    },
+
+
+
+
+    "a1_e0_at0_et0_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사 혼자"
+    },
+    "a0_e1_at0_et0_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군병사 혼자"
+    },
+
+
+    "a0_e0_at0_et1_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군탱크 혼자"
+    },
+
+
+
+    "a1_e0_at1_et0_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사1-아군탱크1, 겹침 없음"
+    },
+    "a1_e0_at0_et1_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사1-적군탱크1, 겹침 없음"
+    },
+    "a0_e1_at1_et0_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군병사1-아군탱크1, 겹침 없음"
+    },
+    "a0_e1_at0_et1_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군병사1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a0_e0_at1_et1_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군탱크1-적군탱크1, 겹침 없음"
+    },
+    "a0_e0_at0_et2_b3_o0": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군탱크1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a1_e1_at0_et0_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사1-적군병사1, 겹침 있음"
+    },
+    "a2_e0_at0_et0_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사1-아군병사1, 겹침 있음"
+    },
+    "a0_e2_at0_et0_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군병사1-적군병사1, 겹침 있음"
+    },
+
+
+    "a1_e0_at1_et0_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사1-아군탱크1, 겹침 있음"
+    },
+    "a1_e0_at0_et1_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사1-적군탱크1, 겹침 있음"
+    },
+    "a0_e1_at1_et0_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군병사1-아군탱크1, 겹침 있음"
+    },
+    "a0_e1_at0_et1_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 적군병사1-적군탱크1, 겹침 있음"
+    },
+
+
+    "a2_e2_at1_et0_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사2-적군병사2-아군탱크1, 겹침 있음"
+    },
+    "a2_e2_at0_et1_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사2-적군병사2-적군탱크1, 겹침 있음"
+    },
+    "a2_e2_at1_et1_b3_o1": {
+        "ratio": 0.9,
+        "description": "Section 3, 아군병사2-적군병사2-아군탱크1-적군탱크1, 겹침 있음"
+    },
+    
+
+
+
+
+    "a1_e0_at0_et0_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사 혼자"
+    },
+    "a0_e1_at0_et0_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군병사 혼자"
+    },
+
+
+    "a0_e0_at0_et1_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군탱크 혼자"
+    },
+
+
+
+    "a1_e0_at1_et0_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사1-아군탱크1, 겹침 없음"
+    },
+    "a1_e0_at0_et1_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사1-적군탱크1, 겹침 없음"
+    },
+    "a0_e1_at1_et0_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군병사1-아군탱크1, 겹침 없음"
+    },
+    "a0_e1_at0_et1_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군병사1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a0_e0_at1_et1_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군탱크1-적군탱크1, 겹침 없음"
+    },
+    "a0_e0_at0_et2_b4_o0": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군탱크1-적군탱크1, 겹침 없음"
+    },
+
+
+    "a1_e1_at0_et0_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사1-적군병사1, 겹침 있음"
+    },
+    "a2_e0_at0_et0_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사1-아군병사1, 겹침 있음"
+    },
+    "a0_e2_at0_et0_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군병사1-적군병사1, 겹침 있음"
+    },
+
+
+    "a1_e0_at1_et0_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사1-아군탱크1, 겹침 있음"
+    },
+    "a1_e0_at0_et1_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사1-적군탱크1, 겹침 있음"
+    },
+    "a0_e1_at1_et0_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군병사1-아군탱크1, 겹침 있음"
+    },
+    "a0_e1_at0_et1_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 적군병사1-적군탱크1, 겹침 있음"
+    },
+
+
+    "a2_e2_at1_et0_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사2-적군병사2-아군탱크1, 겹침 있음"
+    },
+    "a2_e2_at0_et1_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사2-적군병사2-적군탱크1, 겹침 있음"
+    },
+    "a2_e2_at1_et1_b4_o1": {
+        "ratio": 0.9,
+        "description": "Section 4, 아군병사2-적군병사2-아군탱크1-적군탱크1, 겹침 있음"
+    },
+
+
+    "background0": {
+        "ratio": 0.9,
+        "description": "Random, Background"
+    },
+
+    "background1": {
+        "ratio": 0.9,
+        "description": "Section1, Background"
+    },
+
+    "background2": {
+        "ratio": 0.9,
+        "description": "Section 2, Background"
+    },
+
+    "background3": {
+        "ratio": 0.9,
+        "description": "Section 3, Background"
+    },
+
+    "background4": {
+        "ratio": 0.9,
+        "description": "Section 4, Background"
+    }
+
+
+}
